@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          안녕하세요&nbsp;
           <code className={styles.code}>src/app/page.js</code>
         </p>
         <div>
@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}
+            By{" "}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
@@ -71,7 +71,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            안녕하세요 <span>-&gt;</span>
           </h2>
           <p>Explore starter templates for Next.js.</p>
         </a>
@@ -91,5 +91,5 @@ export default function Home() {
         </a>
       </div>
     </main>
-  )
+  );
 }
